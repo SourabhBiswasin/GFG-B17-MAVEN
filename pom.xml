@@ -30,7 +30,7 @@
 
 
 	<build>
-		<finalName>My-Calculator</finalName>
+		<finalName>Sourabh-Calculator</finalName>
 		<plugins>
 			<plugin>
 				<!-- Build an executable JAR test ABC-->
