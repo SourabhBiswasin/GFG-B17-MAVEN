@@ -27,7 +27,7 @@ public class MyCalc {
 	}
 	public void test()
 	{
-		System.out.println("Hello! Docker conatiner from GitHub Actions, This is Job 2");
+		System.out.println("Hello! from Sourabh GitHub Actions, Github action config is sucessfull to push image to docker hub");
 	}
 
 	public static void main(String[] args) {
